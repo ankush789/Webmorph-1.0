@@ -1,2 +1,1 @@
-UI design for a live Streaming site.
-It contains home page,login page with a two other pages.
+Frontend Design of a live streaming site using Bootstrap Framework.It consists of three pages home page, login page and a movie page.
