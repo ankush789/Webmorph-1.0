@@ -8,6 +8,7 @@
 .secondpart .container {
     max-width: 1209px!important;
 }
+
 .firstimg img {
     width: 94%!important;
     height: 90%!important;
@@ -209,7 +210,6 @@ margin:30px 143px 30px 143px!important;
 }
 .firstpart .container-fluid{
 width: 107%;
-}
 }
 @media(max-width:370px){
 .addtowishlist {
